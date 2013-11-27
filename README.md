@@ -11,7 +11,7 @@ http://fsymbols.com/generators/tarty/
 
 Welcome to Teamout! This is a HTML5 mobile app that makes organizing team luncheons easy and fun.
 
-Currently it is hosted on PhoneGap. [Click here](http://build.phonegap.com/apps/665342) for the QR code (auto-install) and package binaries (manual-install).
+Currently it is hosted on PhoneGap. [Click here](http://build.phonegap.com/apps/665342/share) for the QR code (auto-install) and package binaries (manual-install).
 
 ## Future plans
 
