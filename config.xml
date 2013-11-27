@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.CiscoGuys.CiscoSJRestaurants"
+        versionCode="10" 
+        version   = "1.0.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Cisco SJ Restaurants</name>
+
+    <description>
+        Welcome! This project aims to help teams pick restaurants around Cisco Systems, San Jose.
+    </description>
+
+    <author href="https://build.phonegap.com" email="mchamour@cisco.com">
+        Sam Huang
+        Michael Chamoures
+    </author>
+
+</widget>
