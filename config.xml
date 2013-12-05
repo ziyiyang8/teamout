@@ -36,8 +36,8 @@
     <gap:splash src="img/android/playstore-icon.png"  gap:platform="android" gap:density="mdpi" />
     <gap:splash src="img/android/playstore-icon.png"  gap:platform="android" gap:density="hdpi" />
     <gap:splash src="img/android/playstore-icon.png" gap:platform="android" gap:density="xhdpi" />
-    <gap:splash src="img/ios7/iTunesArtwork.png"    gap:platform="ios"     width="320" height="480" />
-    <gap:splash src="img/ios7/iTunesArtwork.png@x2" gap:platform="ios"     width="640" height="960" />
+    <gap:splash src="img/ios7/iTunesArtwork.png"    gap:platform="ios"     width="512" height="512" />
+    <gap:splash src="img/ios7/iTunesArtwork.png@x2" gap:platform="ios"     width="1024" height="1024" />
 
 
 </widget>
