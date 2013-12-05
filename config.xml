@@ -17,5 +17,29 @@
         Sam Huang
         Michael Chamoures
     </author>
+    
+    
+    <!-- Define app icon for each platform. -->
+    <icon src="img/ios7/icon.png" />
+    <icon src="img/android/drawable-ldpi/ic_launcher.png"   gap:platform="android"    gap:density="ldpi" />
+    <icon src="img/android/drawable-mdpi/ic_launcher.png"   gap:platform="android"    gap:density="mdpi" />
+    <icon src="img/android/drawable-hdpi/ic_launcher.png"   gap:platform="android"    gap:density="hdpi" />
+    <icon src="img/android/drawable-xhdpi/ic_launcher.png"  gap:platform="android"    gap:density="xhdpi" />
+
+    <icon src="img/ios7/icon-60.png"            gap:platform="ios"        width="57" height="57" />
+    <icon src="img/ios7/icon-72.png"            gap:platform="ios"        width="72" height="72" />
+    <icon src="img/ios7/icon-60@2x.png"         gap:platform="ios"        width="114" height="114" />
+    <icon src="img/ios7/icon-72@2x.png"         gap:platform="ios"        width="144" height="144" />
+
+    <!-- Define app splash screen for each platform. -->
+    <gap:splash src="img/android/playstore-icon.png"  gap:platform="android" gap:density="ldpi" />
+    <gap:splash src="img/android/playstore-icon.png"  gap:platform="android" gap:density="mdpi" />
+    <gap:splash src="img/android/playstore-icon.png"  gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="img/android/playstore-icon.png" gap:platform="android" gap:density="xhdpi" />
+    <gap:splash src="img/ios7/iTunesArtwork.png"    gap:platform="ios"     width="320" height="480" />
+    <gap:splash src="img/ios7/iTunesArtwork.png@x2" gap:platform="ios"     width="640" height="960" />
+    <gap:splash src="img/ios7/iTunesArtwork.png"      gap:platform="ios"     width="768" height="1024" />
+    <gap:splash src="img/ios7/iTunesArtwork.png@x2"     gap:platform="ios"     width="1024" height="768" />
+
 
 </widget>
